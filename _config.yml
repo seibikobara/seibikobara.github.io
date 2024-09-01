@@ -21,7 +21,7 @@ repository               : "seibikobara/seibikobara.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar: "profile.png"
   name             : "Seibi Kobara, RPT, MPH"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in CSI and ICU physical therapist"
