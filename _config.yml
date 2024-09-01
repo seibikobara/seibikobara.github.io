@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Seibi Kobara"
-description              : &description "personal description"
+description              : &description "Ph.D. student"
 url                      : "https://seibikobara.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"  # the subpath of your site, e.g. "/blog"
 repository               : "seibikobara/seibikobara.github.io"
@@ -21,7 +21,7 @@ repository               : "seibikobara/seibikobara.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : https://i.postimg.cc/FRyCgNYL/profile.png
+  avatar           : https://i.postimg.cc/d1Vndrcz/profile.jpg
   name             : "Seibi Kobara, RPT, MPH"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in CSI and ICU physical therapist"
